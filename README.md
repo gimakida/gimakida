@@ -26,8 +26,8 @@ Amo jogar, fazer crochê, desenhar e ler, esses  hobbies me ajudam a ter clareza
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTMLS](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)
-![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
+![Figma Badge](https://img.shields.io/badge/Figma-32CD32?logo=figma&logoColor=fff&style=for-the-badge)
+![Git Badge](https://img.shields.io/badge/Git-9400D3?logo=git&logoColor=fff&style=for-the-badge)
 
 </p>
 </div>

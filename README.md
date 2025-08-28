@@ -1,12 +1,26 @@
 # ✮⋆˙‧₊˚✩彡  Giovanna Makida  彡✩˚₊‧˙⋆✮
 **`"The more you practice, the better you get, the more freedom you have to create."`**<p>
+
+<img align = "right" src = "https://github.com/user-attachments/assets/95b1c92e-896f-46ae-9b91-a6d9ff01a62c" width = "200">
+
+<div align = "left">
+  <p align = "justify">
 Graduanda em Sistemas de Informação na Fiap.
 Tecnologia é minha inspiração diária para resolver problemas e criar ideias inovadoras para ajudar as pessoas em minha volta.<p>
-Amo jogar, fazer crochê, desenhar e ler, esses  hobbies me ajudam a ter clareza de ideias e soluções!✨
+Amo jogar, fazer crochê, desenhar e ler, esses  hobbies me ajudam a ter clareza de ideias e soluções!✨"
+</p>
+
+</div>
+
+<div align = "left" width = "40">
 
 ## 🌟 Habilidades :
 
+</div>
 
+<div align = "left">
+
+<p style="display: inline_block">
 
 ![Java](https://custom-icon-badges.demolab.com/badge/-JAVA-F25278?style=for-the-badge&logo=&logoColor=white> ) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -15,13 +29,17 @@ Amo jogar, fazer crochê, desenhar e ler, esses  hobbies me ajudam a ter clareza
 ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
 
-
-<p>
+</p>
+</div>
 
 ## Vamos nos conectar! :
+
+<div>
+  
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanna-makida)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giovvanna.makida@gmail.com?subject=Olá!&body=)
 
+</div>
 <br>
 
 ### ✨ Github Stats

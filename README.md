@@ -5,12 +5,14 @@
 
 <div align = "left">
   <p align = "justify">
-Graduanda em Sistemas de Informação na Fiap.
+Graduanda em Sistemas de Informação na Fiap.<br>
 Tecnologia é minha inspiração diária para resolver problemas e criar ideias inovadoras para ajudar as pessoas em minha volta.<p>
-Amo jogar, fazer crochê, desenhar e ler, esses  hobbies me ajudam a ter clareza de ideias e soluções! ✨
+Amo jogar, fazer crochê, desenhar e ler,<br>
+esses  hobbies me ajudam a ter clareza de ideias e soluções! ✨
 </p>
 
 </div>
+<br>
 
 <div align = "left" width = "40">
 
@@ -31,6 +33,9 @@ Amo jogar, fazer crochê, desenhar e ler, esses  hobbies me ajudam a ter clareza
 
 </p>
 </div>
+<p>
+  
+</p>
 
 ## 💫 Vamos nos conectar! 
 
